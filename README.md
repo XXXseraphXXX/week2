@@ -28,7 +28,7 @@ An example of this can be seen in the statement like this:
 - in this case we know that the dog does belong in the noun phase however as we go to the next word love, it is not in the verb  which prove that the sentence do not belong to L(G)
 
 example with using programming language.
-![ex1](ex1.jpg)
+![ex1](ex1.JPG)
 
 Howeverproblem still occurs 
 
