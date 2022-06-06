@@ -8,7 +8,7 @@ Inorder to do that we need to know what sytnax and semantic are.
 **Sytnax** is the form of the expressions, statments, and  program units
 -
 **Semantics** is the meaning of the expressions, statements, and program units
-- *note: neither one can be ambiguous 
+- **note: neither one can be ambiguous** 
 
 Syntax and semantics provide a lanuage's definition 
 **Grammars** are mechanism that are use to define the syntax
@@ -27,10 +27,18 @@ An example of this can be seen in the statement like this:
 - Example of this would be if we use the sentence:" the dog love that cat" 
 - in this case we know that the dog does belong in the noun phase however as we go to the next word love, it is not in the verb  which prove that the sentence do not belong to L(G)
 
-example with using programming language.
+Example using programming language.
 ![ex1](ex1.JPG)
+# Another symbol
+- <empty> is the only non-terminal that does not have a rule defining it.
+- The <empty> symbol derives nothing.
+  
+  **Ex:**![empty](empty.png)
+  
+However, problem still occurs 
+Problem: it is ambiguous, meaning that there exists a string that can have more than one leftmost derivation or parse tree,
+how do we fix that! we do it **associativity **. 
 
-Howeverproblem still occurs 
 
 
 
