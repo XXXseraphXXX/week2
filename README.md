@@ -38,9 +38,13 @@ An example of this can be seen in the statement like this:
 - Example of this would be if we use the sentence:" the dog love that cat" 
 - In this case we know that the dog does belong in the noun phase however as we go to the next word love, it is not in the verb  which prove that the sentence do not belong to L(G)
 
-Example using programming language.
+**Example using programming language.**
+    
 ![ex1](ex1.JPG)
-
+ 
+**Example of Parse Tree**
+![tree](tree.JPG)
+    
 However, problem still occurs 
 Problem: it is ambiguous, meaning that there exists a string that can have more than one leftmost derivation or parse tree,
 How do we fix that! We do it **Associativity and Precendence**
