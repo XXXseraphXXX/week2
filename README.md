@@ -69,7 +69,12 @@ How do we fix that! We do it **Associativity and Precendence**
   
 However, (5+7)+(10 * 3) is what we are looking for because we want to express this according to algebraic conventions. note multiplication 10*3 would have the higher precedence because we are following it algebraically. In addition, it is left associative.
 
-
+# Resource and references:
+- Webber, Adam. Modern Programming Languages: A Practical Introduction. Franklin, Beedle &amp; Associates, 2002. 
+- “7.6. Parse Tree¶.” 7.6. Parse Tree - Problem Solving with Algorithms and Data Structures, https://runestone.academy/ns/books/published/pythonds/Trees/ParseTree.html. 
+- Chapter 3 Describing Syntax and Semantics. https://www2.southeastern.edu/Academics/Faculty/kyang/2014/Fall/CMPS401/ClassNotes/CMPS401ClassNotesChap03.pdf.
+- “Language - (Grammar: Production) Rule.” Datacadamia, 7 Nov. 2021, https://datacadamia.com/code/compiler/rule.
+- “Programming Languages.” 1.3. Grammars - Part 3 - Establishing Order of Operations - Programming Languages, https://opendsa-server.cs.vt.edu/OpenDSA/Books/PL/html/Grammars3.html. 
 
 
 
